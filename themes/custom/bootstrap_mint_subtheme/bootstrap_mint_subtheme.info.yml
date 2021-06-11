@@ -1,0 +1,9 @@
+name: Bootstrap Mint Subtheme
+type: theme
+base theme: creative_responsive_theme
+description: 'Bootstrap Mint Submtheme.'
+core: 8.x
+
+#Libraries
+libraries:
+  - bootstrap_mint_subtheme/global-components

@@ -1,0 +1,8 @@
+body{
+      font-family: 'helvetica-neue-roman';
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0.075em;
+      color: #202122;
+      transition: color 0.4s;
+}

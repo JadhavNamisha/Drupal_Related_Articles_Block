@@ -1,0 +1,4 @@
+services:
+  related_articles.article_data:
+    class: \Drupal\related_articles\ArticleData
+    arguments: ["@entity_type.manager"]
